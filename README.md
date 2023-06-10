@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### I am wertycn(debug.icu).
 - 🔭 I’m currently working on [Zhejiang RoyalFlush Network Technology Co., Ltd.](https://www.10jqka.com.cn/)
-- 🌱 I’m currently learning java, golang, k8s ...
+- 🌱 I’m currently learning llm, java, golang, k8s ...
 - 📫 If you want know me more : [http://werty.cn](http://werty.cn), this is my personal blog.
 - 💬 How to reach me: debugicu@163.com
 
@@ -34,17 +34,17 @@ Here are some ideas to get you started:
 <br />
 
 
-| <a href="https://github.com/wertycn/web-screenshot-servcie"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wertycn&show_icons=true&theme=default&count_private=true&include_all_commits=true&layout=compact&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/wertycn/web-screenshot-servcie"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wertycn&layout=compact&theme=default&hide_border=true" /></a> |
+| <a href="https://github.com/wertycn/web-screenshot-servcie"><img align="center" src="https://readme-stats.vercel.debug.icu/api?username=wertycn&show_icons=true&theme=default&count_private=true&include_all_commits=true&layout=compact&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/wertycn/web-screenshot-servcie"><img align="center" src="https://readme-stats.vercel.debug.icu/api/top-langs/?username=wertycn&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/wuhan2020/COVID-19-Nav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wuhan2020&repo=COVID-19-Nav&theme=default" />
+  <img align="center" src="https://readme-stats.vercel.debug.icu/api/pin/?username=wuhan2020&repo=COVID-19-Nav&theme=default" />
 </a>
 <!-- <a href="https://github.com/wertycn/web-screenshot-servcie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wertycn&repo=web-screenshot-servcie&theme=buefy" />
+  <img align="center" src="https://readme-stats.vercel.debug.icu/api/pin/?username=wertycn&repo=web-screenshot-servcie&theme=buefy" />
 </a> -->
 
 <br />
